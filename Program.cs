@@ -72,6 +72,5 @@ namespace Parser_xml
             DirectoryInfo dirInfo = new DirectoryInfo(extractPath);
             dirInfo.Delete(true);
         }
-
     }
 }
