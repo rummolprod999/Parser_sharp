@@ -1,0 +1,6 @@
+/home/alex/RiderProjects/Parser_xml/Parser_xml/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/RiderProjects/Parser_xml/Parser_xml/bin/Debug/Parser_xml.exe.mdb
+/home/alex/RiderProjects/Parser_xml/Parser_xml/bin/Debug/Parser_xml.exe
+/home/alex/RiderProjects/Parser_xml/Parser_xml/obj/Debug/Parser_xml.exe
+/home/alex/RiderProjects/Parser_xml/Parser_xml/obj/Debug/Parser_xml.exe.mdb
+/home/alex/RiderProjects/Parser_xml/Parser_xml/bin/Debug/Newtonsoft.Json.dll
